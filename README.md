@@ -4,6 +4,5 @@ reference:W. Zhang, T. S. Fisher, and N. Mingo, Numerical Heat Transfer, Part B:
 Still some bugs.
 
 To be done:
-1. bug free version.
-2. decimation technique.
-3. DOS and Local DOS calculation.
+1.DOS and Local DOS calculation.
+2. 2D & 3D toy case.
